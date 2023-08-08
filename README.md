@@ -68,6 +68,7 @@ Manual testing was exhaustively done
 - Login form was not reading from the database  - Fixed
 - Authentcated users could not login into the application - Fixed
 - Both successful and error messages showing at the same time during login -  Fixed
+- Placeholder text not showing - Fixed
 
 *Deployment Process*
 
